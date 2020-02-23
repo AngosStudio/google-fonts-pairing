@@ -1,5 +1,12 @@
 # Google-Fonts-Pairing
-Simple script to pair google fonts
-I was looking for a site to help me with this task, i didn`t find and i create this simple script to help in my decision.
-To use, only save the index.html file and open him to use.
+Um script simples de pareamento de fontes.
 
+Estava buscando uma ferramenta online que fosse simples e prática de testar visualmente como ficariam os pares de fonte mas não encontrei.
+
+Optei por criar algo simples e funcional que me ajudasse com isso, nem tinha ideia de publicar nem nada assim, mas como ficou muito útil achei que talvez mais pessoas pudessem estar precisando de algo parecido e com pouco tempo para criar algo.
+
+Sugestões são muito bem vindas e contribuições também.
+
+
+## Como Utilizar
+É super simples, basta baixar o projeto e abrir o arquivo index.html ou simplesmente copiar o conteúdo deste arquivo e colar em um arquivo local.
