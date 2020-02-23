@@ -10,3 +10,6 @@ Sugestões são muito bem vindas e contribuições também.
 
 ## Como Utilizar
 É super simples, basta baixar o projeto e abrir o arquivo index.html ou simplesmente copiar o conteúdo deste arquivo e colar em um arquivo local.
+
+## Demonstração
+![Demonstração do Script](https://raw.githubusercontent.com/AngosStudio/google-fonts-pairing/master/google-fonts-pairing.PNG)
